@@ -1,0 +1,123 @@
+*
+	{
+		box-sizing:border-box;
+	}
+	
+h1
+	{
+		color:rgba(119,136,153,0.8);
+		/*border-color:lavender;
+		border-width:px;
+		border-style:solid; */
+		border:2px solid lavender;
+		border-width: auto;
+		height: 40px ;
+	}
+
+ul
+	{
+		list-style-type: disc;
+		color:black;
+		background:url(http://www.unsigneddesign.com/coloredpaper/paper1.jpg);: 
+
+	}
+h4
+	{
+		color:slategrey;
+		margin:0 auto;
+		font-family: Raleway, sans-serif;
+		
+	}
+body
+	{
+		margin:1.6%;
+		font-size:16px;
+		background:url(http://static1.squarespace.com/static/54257637e4b05cf30a4477d3/t/5446aac3e4b09d4e92ece132/1413917414207/background.png?format=2500w);
+		background-image: cover;
+	}
+.special
+	{
+		text-align: center;
+		font-size: 10pt;
+		line-height: 2;
+		font-family: "Century Gothic",CenturyGothic,AppleGothic,sans-serif
+	}
+.position
+	{
+		width:20%;
+		height: auto;
+		display: block;
+		margin: 0 auto;
+	}
+		
+
+p.work
+	{
+		border:2px solid black;
+		width:20%;
+		margin:2.5%;
+		padding-top: 40px;
+		padding-bottom: 40px;
+		padding-left: 50px;
+		padding-right: 50px;
+		float:left;
+		overflow: hidden:;
+	}
+h4.work
+	{
+		margin: 2.5%;
+		font-size: 2em;
+		font-weight: 500;
+		padding-top: 20px;
+		padding-bottom: 20px;
+		border-top:none;
+		border-left: none;
+		border-right:none;
+		text-transform: uppercase;
+		border-bottom: 1px solid slategrey;
+		width:30%;
+	}
+
+.blog /*header with paragraph*/
+	{
+		width:40%;
+		margin:2.5%;
+		float:left;
+	}
+
+.allimg
+	{
+		
+		background-color:slategrey;
+		width:95px;
+		height:45px;
+		position:fixed;
+		left:0;
+		bottom:0;
+		
+	}
+img.socialfb
+	{
+		width:25px;
+		position:fixed;
+		bottom:10px;
+		left:10px;
+	}
+img.socialtw
+	{
+		width:25px;
+		position:fixed;
+		bottom:10px;
+		left:35px;
+	}
+img.socialin
+	{
+		width:25px;
+		position:fixed;
+		bottom:10px;
+		left:60px;
+	}
+
+
+	
+
